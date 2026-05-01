@@ -34887,7 +34887,7 @@ const data3_2: Protocol[] = [
     gecko_id: null,
     cmcId: null,
     tags: ["Weighted Pool AMM"],
-    chains: ["DeFiVerse"],
+    chains: ["DeFiVerse", "Oasys", "MegaETH"],
     module: "gaming-dex/index.js",
     twitter: "GamingDEX_Oasys",
     forkedFromIds: ["2611"],
