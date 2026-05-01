@@ -34880,7 +34880,7 @@ const data3_2: Protocol[] = [
     symbol: "-",
     url: "https://www.gaming-dex.com",
     description:
-      "Gaming DEX is a DeFi infrastructure protocol that provides token liquidity.It will be implemented on DeFi Verse, a Blockchain for Games-related Oasys Layer 2 blockchain.",
+      "Gaming DEX is a DeFi infrastructure protocol that provides token liquidity. It is implemented on Oasys and megaETH.",
     chain: "DeFiVerse",
     logo: `${baseIconsUrl}/gaming-dex.jpg`,
     audits: "0",
